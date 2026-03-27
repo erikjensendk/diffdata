@@ -1,0 +1,4 @@
+oracledb
+simple-salesforce
+openpyxl
+pandas
